@@ -1,0 +1,17 @@
+{
+  "name": "reproduce-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reproduce.js",
+  "dependencies": {
+    "minecraft-folder-path": "^1.1.0",
+    "minecraft-protocol": "^1.22.0",
+    "shelljs": "^0.8.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
